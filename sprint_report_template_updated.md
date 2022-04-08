@@ -4,7 +4,7 @@
 [Summary video link](https://youtube.com/)
 
 ## Link to Online Communication Channel (MS Teams/Slack/Discord)
-[Discord Server link](https://youtube.com/)
+[Discord Server link](https://discord.gg/qPP7zwZ5)
 
 ## Link to Working Prototype
 You can access our team's working prototype at [this site](https://ourapp.herokuapp.com)
